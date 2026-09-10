@@ -1,0 +1,148 @@
+Privacy Policy
+Last Updated: September 3, 2026
+Dog Seizure Tracker respects your privacy and is committed to protecting the information you provide when using the Dog Seizure Tracker mobile application (the "App").
+This Privacy Policy explains what information we collect, how we use it, how we store and protect it, and the choices you have regarding your information.
+By using the App, you acknowledge that you have read and understood this Privacy Policy.
+1. Information We Collect
+We collect information that you provide directly to us when you create an account and use the App.
+Account Information
+When you create an account, we collect:
+Email address
+Password or password credentials necessary to authenticate your account
+We do not use your password for any purpose other than authenticating your account. Passwords should be stored using appropriate security and hashing practices and should not be stored in plain text.
+Medication Information
+The App allows you to record and manage medication information. This may include:
+Drug name
+Drug strength
+Dose
+Time or number of hours until the medication is due again
+Other medication-related information you choose to enter 
+Medication information may constitute health-related information and is treated as sensitive information.
+Pet Information
+The App allows you to maintain information about your pet, including:
+Pet name
+Breed
+Age
+Photographs you choose to upload or take through the App
+Seizure Information
+The App allows you to record information about seizure events. This may include:
+Date of occurrence
+Time of occurrence
+Duration
+Symptoms
+Medication given in response to the event
+Other information you choose to enter regarding the event 
+Seizure information is health-related information and is treated as sensitive information.
+2. How We Use Your Information
+We use the information we collect to provide, maintain, and improve the App and its features.
+Specifically, we may use your information to:
+Create and maintain your account
+Authenticate your identity and allow you to securely sign in
+Store and display your medication information
+Store and display your pet information
+Store and display your seizure records
+Provide reminders or notifications you request
+Provide features and functionality within the App
+Maintain and improve the security, reliability, and performance of the App
+Respond to support requests
+Diagnose and resolve technical problems
+Comply with applicable legal obligations
+Detect, prevent, and address fraud, abuse, security incidents, or other harmful activity
+We do not sell your personal information or health-related information.
+We do not use your health-related information for targeted advertising.
+3. How We Share Your Information
+We do not sell, rent, or trade your personal information or health-related information.
+We may share information only in limited circumstances, including:
+Service Providers
+We may use trusted third-party service providers to operate the App. These providers may process information on our behalf for purposes such as:
+Account authentication
+Cloud data storage
+Database hosting
+Application infrastructure
+Error monitoring and technical support
+Push notifications
+Security and fraud prevention
+These service providers are permitted to access information only as necessary to provide services to us and are expected to protect the information they process.
+Legal Requirements
+We may disclose information if required to do so by law, regulation, legal process, court order, or governmental request, or when we reasonably believe disclosure is necessary to:
+Comply with a legal obligation
+Protect the rights, safety, or property of our users, us, or others
+Detect or investigate fraud, security incidents, or other unlawful activity
+Business Transfers
+If Dog Seizure Tracker is involved in a merger, acquisition, financing, reorganization, sale of assets, bankruptcy, or similar business transaction, your information may be transferred as part of that transaction, subject to applicable privacy requirements.
+4. Health and Medical Information
+The App is designed to allow users to record and organize medication and seizure information.
+This information may be considered health or medical information and should be treated as sensitive.
+We use health-related information only to provide the features of the App and for the other purposes described in this Privacy Policy.
+We do not sell health-related information.
+5. Pet Information
+Pet information is provided voluntarily by users.
+Pet information may include a pet's name, breed, age, photograph, and other information you choose to enter.
+Pet information is used to provide the App's pet-management and record-keeping functionality.
+If information about a pet's health or medical history is entered into the App, that information may contain health-related information and will be handled in accordance with the practices described in this Privacy Policy.
+6. Photos
+If you choose to take or upload a photograph of your pet, the App may request access to your device's camera or photo library.
+Photos are used to provide features you request within the App.
+We do not access your device's photo library unless you grant the App the appropriate permission and initiate a feature that requires photo access.
+You may control the App's access to your camera and photos through your device's privacy settings.
+7. Notifications
+If you enable notifications, the App may send notifications related to features you have configured, such as medication reminders or other App-related alerts.
+You can disable notifications at any time through your device's settings.
+8. Data Storage and Security
+We take reasonable administrative, technical, and organizational measures designed to protect your information from unauthorized access, alteration, disclosure, or destruction.
+These measures may include access controls, authentication mechanisms, encryption where appropriate, secure communications, and other security practices appropriate to the nature of the information we maintain.
+However, no method of transmitting or storing information electronically can be guaranteed to be completely secure.
+You are responsible for maintaining the confidentiality of your account credentials and should notify us promptly if you believe your account has been accessed without authorization.
+9. Data Retention
+We retain your personal information for as long as reasonably necessary to provide the App and its features, maintain your account, comply with legal obligations, resolve disputes, enforce our agreements, and protect our legitimate interests.
+You may request deletion of your account and associated information as described below.
+Certain information may be retained when required by law or when reasonably necessary for legitimate security, fraud-prevention, or legal purposes.
+When information is no longer required, we will take reasonable steps to delete it or render it no longer reasonably associated with you, consistent with applicable law and our data-retention practices.
+10. Account and Data Deletion
+You may request deletion of your account and associated personal information.
+Settings → Delete Account
+When you request account deletion, we will delete or de-identify your personal information within a reasonable period, except where retention is required or permitted by applicable law.
+Please note that deletion may be permanent and cannot be undone.
+11. Your Privacy Choices
+Depending on your location and applicable law, you may have rights regarding your personal information, including the ability to:
+Access information we maintain about you
+Request correction of inaccurate information
+Request deletion of your information
+Request information about how your data is collected and used
+Withdraw certain permissions or consents
+Object to or restrict certain processing
+Request a copy of certain information in a portable format
+To exercise applicable privacy rights, contact us at: dantheveterinarian.com
+We may need to verify your identity before fulfilling certain requests.
+12. Children's Privacy
+The App is not intended for children under the age of 13.
+We do not knowingly collect personal information from children under 13.
+If you believe that a child under 13 has provided personal information to us, please contact us at dantheveterinarian.com so that we can take appropriate action.
+If applicable law in your jurisdiction establishes a higher minimum age for consent to personal-data processing, that higher age will apply.
+13. Third-Party Services
+The App may rely on third-party services to provide certain functionality, such as authentication, cloud storage, hosting, analytics, crash reporting, notifications, or other infrastructure.
+Any third-party service that processes information on our behalf is expected to handle that information in accordance with applicable contractual and legal requirements.
+Our current third-party service providers include:Base44 — To build, host, and maintain app data.
+This list should be updated whenever the App begins using a new service that collects or processes user information.
+14. Analytics and Tracking
+We do not currently use third-party analytics, advertising, or tracking technologies that collect information about your activity across other apps or websites.
+We do not use health or medical information for targeted advertising.
+15. Advertising
+The App does not currently display advertisements and does not share your personal or health-related information with advertising networks for targeted advertising.
+16. International Data Transfers
+Your information may be processed or stored on servers located in countries other than the country in which you live.
+Where required by applicable law, we will use appropriate safeguards for international transfers of personal information.
+17. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes to the App, our practices, applicable law, or other circumstances.
+When we make material changes, we will provide notice through the App, our website, email, or another appropriate method.
+The "Last Updated" date at the top indicates when this Privacy Policy was most recently revised.
+18. Contact Us
+If you have questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us: dantheveterinarian.com
+
+Important Medical Disclaimer
+Dog Seizure Tracker is intended to help users record, organize, and manage information they choose to enter into the App.
+The App is not a medical device, healthcare provider, emergency service, or substitute for professional medical advice, diagnosis, or treatment, unless expressly stated otherwise.
+Information recorded in the App should not be relied upon as a substitute for advice from a qualified healthcare professional or veterinarian.
+If you or another person is experiencing a medical emergency, contact your local emergency services.
+For questions about a pet's health or treatment, consult a qualified veterinarian.
+
