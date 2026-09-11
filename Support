@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Support — Dog Seizure Tracker</title>
+<style>
+  :root {
+    --text: #1f2328;
+    --muted: #57606a;
+    --border: #d0d7de;
+    --bg: #ffffff;
+    --accent: #0969da;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.6;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+  }
+  h1 {
+    font-size: 1.9rem;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 0.95rem;
+    margin-bottom: 32px;
+  }
+  h2 {
+    font-size: 1.2rem;
+    margin-top: 36px;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
+  }
+  p {
+    margin: 10px 0;
+  }
+  ul {
+    margin: 10px 0;
+    padding-left: 22px;
+  }
+  li {
+    margin: 6px 0;
+  }
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .contact-box {
+    margin-top: 12px;
+    padding: 16px 20px;
+    background: #f6f8fa;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }
+  footer {
+    margin-top: 48px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <h1>Support</h1>
+  <p class="subtitle"><a href="index.html">← Back to Privacy Policy</a></p>
+
+  <p>
+    Need help with Dog Seizure Tracker? You're in the right place. Below are answers to
+    common questions, along with how to reach us for anything else.
+  </p>
+
+  <h2>Frequently Asked Questions</h2>
+
+  <p><strong>How do I log a seizure event?</strong></p>
+  <p>From the main screen, tap "Add Seizure" and fill in the date, time, duration, symptoms, and any medication given. You can edit or delete an entry at any time from your history.</p>
+
+  <p><strong>How do I add medication reminders?</strong></p>
+  <p>Go to your pet's profile, add a medication with its name, strength, and dose, and set the reminder interval. The App will notify you when the next dose is due, if notifications are enabled.</p>
+
+  <p><strong>How do I add or edit my pet's profile?</strong></p>
+  <p>Tap your pet's name or photo from the home screen to edit their name, breed, age, or photo.</p>
+
+  <p><strong>How do I delete my account?</strong></p>
+  <p>Go to Settings → Delete Account. This permanently removes your account and associated data and cannot be undone.</p>
+
+  <p><strong>Is my data shared with anyone?</strong></p>
+  <p>No. We don't sell your personal or health-related information, and we don't use it for advertising. See our <a href="index.html">Privacy Policy</a> for full details.</p>
+
+  <p><strong>The App isn't working as expected — what should I do?</strong></p>
+  <p>Try force-closing and reopening the App, and make sure you're on the latest version from the App Store. If the issue continues, contact us below with details of what happened.</p>
+
+  <h2>Contact Us</h2>
+  <p>If your question isn't answered above, or you're running into a bug, reach out and we'll help.</p>
+  <div class="contact-box">
+    <p><strong>Email / Website:</strong> <a href="http://dantheveterinarian.com">dantheveterinarian.com</a></p>
+    <p>When contacting us about a technical issue, it helps to include your device type, App version, and a short description of the problem.</p>
+  </div>
+
+  <h2>Medical Emergencies</h2>
+  <p>Dog Seizure Tracker is a record-keeping tool, not a medical device or emergency service. If your dog is having a medical emergency, contact your local emergency veterinary service immediately rather than relying on the App.</p>
+
+  <footer>
+    Dog Seizure Tracker — Support
+  </footer>
+
+</div>
+</body>
+</html>
